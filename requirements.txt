@@ -1,2 +1,4 @@
 pandas
 itables
+voila
+altair
